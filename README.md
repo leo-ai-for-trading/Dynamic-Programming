@@ -6,7 +6,7 @@
 **Projects in DP**
 - A* Pathfinder Algorithm 
 <br />
-<br />
 
-** Ongoing Project **
+
+**Ongoing Project**
 - FibMe: Fibonacci solver using Binet's Formula 
