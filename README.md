@@ -3,7 +3,7 @@
 *This repository will provide solution for dynamic programming section in Leetcode.<br />     The code will be always followed by a picture where you can find the runtime and all the details that justify the solution as one of the more efficient*
 <br />
 <br />
-**Projects in DP**
+**Projects**
 - A* Pathfinder Algorithm 
 <br />
 
