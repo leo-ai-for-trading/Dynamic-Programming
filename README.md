@@ -8,5 +8,4 @@
 <br />
 
 
-**Ongoing Project**
-- FibMe: Fibonacci solver using Binet's Formula 
+
